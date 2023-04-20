@@ -1,0 +1,20 @@
+p {
+    text-align: justify;
+  }
+  .rodape {
+    text-align: center;
+  }
+  
+  footer {
+    background-color: rgb(142, 18, 224);
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+  }
+
+ header {
+    background-color: rgb(142, 18, 224);
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+  } 
